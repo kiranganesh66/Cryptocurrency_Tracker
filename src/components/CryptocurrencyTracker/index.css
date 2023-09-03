@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.MainBgContanier {
+  background-color: #000000;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  align-items: center;
+}
+/* .Crypto-heading {
+  color: #00e7ff;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-top: 30px;
+}
+.image {
+}
+
+/* .Crypto-box {
+  border: 5px solid #00e7ff;
+  width: 70vw;
+} */
+/* .h {
+  color: white;
+} */

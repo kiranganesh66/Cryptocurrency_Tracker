@@ -1,0 +1,60 @@
+/* Write your CSS here */
+
+.Crypto-heading {
+  color: #00e7ff;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-top: 30px;
+}
+.image {
+}
+
+/* .Crypto-box {
+  border: 5px solid #00e7ff;
+  width: 70vw;
+} */
+.h {
+  color: white;
+}
+
+/* Write your CSS code here */
+.Crypto-box {
+  border: 5px solid #00e7ff;
+  width: 80vw;
+}
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 19px;
+  padding-right: 19px;
+  background-color: #092e33;
+  margin-bottom: 15px;
+}
+.sub-NavBar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.usdHed {
+  color: white;
+  padding-right: 50px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.EuroHed {
+  color: white;
+  font-size: 20px;
+  padding-right: 50px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.CoinHea {
+  color: white;
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
